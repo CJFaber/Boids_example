@@ -42,9 +42,9 @@ Usage:
 
 
 Algortihm explaination: 
-[](https://en.wikipedia.org/wiki/Boids)
-[](https://vergenet.net/~conrad/boids/pseudocode.html)
-[](https://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/modeling-natural-systems/boids.html)
+[https://en.wikipedia.org/wiki/Boids](https://en.wikipedia.org/wiki/Boids)
+[https://vergenet.net/~conrad/boids/pseudocode.html](https://vergenet.net/~conrad/boids/pseudocode.html)
+[https://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/modeling-natural-systems/boids.html](https://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/modeling-natural-systems/boids.html)
 
 To Do:
 Add multi-threading and partitioning to make faster

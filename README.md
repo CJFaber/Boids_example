@@ -1,10 +1,12 @@
 Boids program written in C++ 
 
-Utilizes SFML for rendering, required for compilation
-Multi-threading currently not implemented 
+- Utilizes SFML for rendering, required for compilation
+
+- Multi-threading currently not implemented 
 
 Usage:
 ./boids.exe 
+
 Click in the window to add a boid!
 ```
 Boids life algo. simulation using sfml and OpenMP, click to add a boid.

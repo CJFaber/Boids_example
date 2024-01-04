@@ -54,4 +54,5 @@ Algortihm explaination:
 To Do:
 Add multi-threading and partitioning to make faster
 Add user sliders for parameter change
+Fuse boid algorithm loops togther for more efficiency 
 

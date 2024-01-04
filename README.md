@@ -1,6 +1,12 @@
 Boids program written in C++ 
 
-- Utilizes [SFML](https://www.sfml-dev.org/index.php) for rendering, required for compilation 
+-Click or hold your mouse to add a boid to the window
+
+- Utilizes [SFML](https://www.sfml-dev.org/index.php) for rendering, required for compilation
+  To download sfml on debain based repos:
+  ```
+  sudo apt-get install libsfml-dev
+  ``` 
 
 - Multi-threading currently not implemented 
 
